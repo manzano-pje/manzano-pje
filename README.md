@@ -1,7 +1,15 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/93448139/194719069-e75e6b43-2b31-4d9e-842e-18ace074d9ee.png)
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **manzano-pje/manzano-pje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
