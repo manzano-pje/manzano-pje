@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/93448139/194719069-e75e6b43-2b31-4d9e-842e-18ace074d9ee.png)
 
+Sou versatilista e me adapto facilmente a diferentes funções (Full Stack Web Developer🌐, Desenvolvedor de aplicativos📱, Engenheiro de ML🤖ou Designer de nível iniciante🎨) dependendo do que o projeto exige. Adoro explorar novas pilhas de tecnologia💻e aproveitando-os para construir coisas legais🛠️.
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
