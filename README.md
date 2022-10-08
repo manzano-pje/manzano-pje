@@ -8,7 +8,7 @@
 
 ## Saiba mais sobre mim
 
-<img src="https://github.com/manzano-pje/imagens/blob/master/einstein.jpg" align="left" height="150em"/>
+<img src="https://github.com/manzano-pje/imagens/blob/master/einstein.jpg" align="left" height="130em"/>
 
 🔭 &nbsp; Atualmente, estou trabalhando no **Devsfree**<br>
 🌱 &nbsp; Tenho bastante estudo sobre Java e Banco de Dados;<br>
