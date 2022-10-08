@@ -6,15 +6,16 @@
 >Sou uma pessoa versatil e me adapto facilmente a diferentes situações, dependendo danecessidade do projeto. Adoro desafios e explorar novas tecnologia💻e >aproveitando-os para construir coisas legais🛠️.
 
 <br>
-<img src="https://github.com/manzano-pje/imagens/blob/master/einstein.jpg" align="left" height="200em"/>
 
 ## Saiba mais sobre mim
+
+<img src="https://github.com/manzano-pje/imagens/blob/master/einstein.jpg" align="left" height="150em"/>
 
 🔭 &nbsp; Atualmente, estou trabalhando no **Devsfree**<br>
 🌱 &nbsp; Tenho bastante estudo sobre Java e Banco de Dados;<br>
 👨🏻‍💻 Alguns dos meus projetos estão disponíveis abaixo;<br>
 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;<br>
-📫 &nbsp; Sinta-se à vontade para visitar o meu perfil no Linkedin [LinkedIn](https://www.linkedin.com/in/paulo-manznao/)<br>
+📫 &nbsp; Sinta-se à vontade para visitar o meu perfil no [LinkedIn](https://www.linkedin.com/in/paulo-manznao/)<br>
 📚 &nbsp; Quando estou livre, gosto de ver desenhos, filmes de ficção e fantasia <br>
 ##
 <br>
