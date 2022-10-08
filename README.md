@@ -1,4 +1,4 @@
-<img src="https://github.com/manzano-pje/imagens/blob/master/borda%20superior.svg"/>
+
 
 ## Oi gente 👋
 
