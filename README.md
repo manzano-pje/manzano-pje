@@ -25,18 +25,15 @@
   
 ### Ferramentas e Tecnologias
 
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  align="left" height="30em" /></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  align="left" height="30em"/></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="left" height="30em"/></a>
- 
-            <i class="devicon-github-original"></i>
-          
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  align="left" height="30em"/></a>
+ <a href="#"><img src="https://github.com/manzano-pje/imagens/blob/master/monochrome_large.png  "  align="left" height="30em"/></a>
  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  align="left" height="30em"/></a>
  <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  align="left" height="30em"/></a>
+ <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  align="left" height="30em" /></a>
+ <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  align="left" height="30em"/></a>
+ <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="left" height="30em"/></a>      
 <br>
-##
 
+##
 
  <a href=mailto:manzano.pje@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://linkedin.com/in/paulo-manzano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
