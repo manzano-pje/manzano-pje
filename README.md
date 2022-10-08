@@ -6,7 +6,7 @@
 >Sou uma pessoa versatil e me adapto facilmente a diferentes situações, dependendo danecessidade do projeto. Adoro desafios e explorar novas tecnologia💻e >aproveitando-os para construir coisas legais🛠️.
 
 <br>
-<img src="https://user-images.githubusercontent.com/93448139/194719069-e75e6b43-2b31-4d9e-842e-18ace074d9ee.png" align="right" height="200em"/>
+<img src="https://github.com/manzano-pje/imagens/blob/master/comutador.svg" align="right" height="200em"/>
 
 ## Saiba mais sobre mim
 
