@@ -1,9 +1,8 @@
-
-
 ## Oi gente 👋
 
+<br>
 
->Sou uma pessoa versatil e me adapto facilmente a diferentes situações, dependendo danecessidade do projeto. Adoro desafios e explorar novas tecnologia💻e >aproveitando-os para construir coisas legais🛠️.
+>Sou uma pessoa versátil e me adapto facilmente a diferentes situações, dependendo da necessidade do projeto. Adoro desafios e explorar novas tecnologias💻e aproveita-los para construir coisas legais🛠️.
 
 <br>
 
