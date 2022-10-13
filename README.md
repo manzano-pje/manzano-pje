@@ -45,10 +45,21 @@
 
 ### Projetos
 
-### [BancoVirtual - em desenvolvimento](https://github.com/manzano-pje/BancoVirutal)<br>
-### [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
+* [BancoVirtual - em desenvolvimento](https://github.com/manzano-pje/BancoVirutal)
+* [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
 
+### Bootcamps
 
+* [Santander](https://github.com/manzano-pje/Santander)
+* [Carrefour](https://github.com/manzano-pje/Carrefour)   
+* [Spread](https://github.com/manzano-pje/Spread-DIO)
+* [Cognizant](https://github.com/manzano-pje/Cognizant-DIO)
+* [TQI](https://github.com/manzano-pje/TQI-DIO)  
+
+### Artigos
+  
+* [Validação de CPF](https://medium.com/@manzano.pje/valida%C3%A7%C3%A3o-de-cpf-3abcc2611bc0)
+* [Classes, Métodos e Atributos em Java](https://medium.com/@manzano.pje/classes-m%C3%A9todos-e-atributos-em-java-3f8e46d989b9)<br>  
 
 
 
