@@ -47,6 +47,7 @@
 
 * [BancoVirtual - em desenvolvimento](https://github.com/manzano-pje/BancoVirutal)
 * [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
+* [Gerenciamento de pedidos](https://github.com/manzano-pje/Restaurante)
 
 ### Bootcamps
 
