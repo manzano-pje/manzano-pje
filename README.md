@@ -45,7 +45,6 @@ Sou apaixonado por aprender continuamente, colaborar com equipes e usar a tecnol
 
 ### Projetos
 
-* [BancoVirtual - em desenvolvimento](https://github.com/manzano-pje/BancoVirutal)
 * [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
 * [Gerenciamento de pedidos](https://github.com/manzano-pje/Restaurante)
 
