@@ -2,21 +2,21 @@
 
 <br>
 
->Sou uma pessoa versátil e me adapto facilmente a diferentes situações, dependendo da necessidade do projeto. Adoro desafios e explorar novas tecnologias💻e aproveita-los para construir coisas legais🛠️.
+Minha jornada começou com a formação como técnico em Processamento de Dados em 1992, e ao longo dos anos, desenvolvi uma carreira multifacetada, com destaque para 16 anos de atuação como Designer Gráfico. Nessa função, fui responsável pela editoração de periódicos, gestão de equipes e desenvolvimento de projetos criativos. Hoje, aplico essa experiência em análise e resolução de problemas no desenvolvimento de soluções back-end.
 
-<br>
+### Habilidades e Tecnologias:
 
-## Saiba mais sobre mim
+- Linguagem de Programação: Java<br>
+- Frameworks: Spring (Boot, Security, MVC)
+- Bancos de Dados: MySQL e PostgreSQL
+- Infraestrutura e DevOps: Docker e RabbitMQ
+- Metodologias Ágeis: Scrum e Kanban
+- Outros: Modelagem de Dados, APIs REST
 
-<img src="https://github.com/manzano-pje/imagens/blob/master/einstein.jpg" align="left" height="130em"/>
+Ao longo da minha carreira, também atuei diretamente com clientes para compreender suas necessidades e entregar soluções de valor, contribuí para o desenvolvimento de materiais internos como revistas corporativas, e apoiei equipes administrativas e comerciais em projetos estratégicos.
 
-🔭 &nbsp; Atualmente, estou trabalhando no **Devsfree**<br>
-🌱 &nbsp; Tenho bastante estudo sobre Java e Banco de Dados;<br>
-👨🏻‍💻 Alguns dos meus projetos estão disponíveis abaixo;<br>
-💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;<br>
-📫 &nbsp; Sinta-se à vontade para visitar o meu perfil no [LinkedIn](https://www.linkedin.com/in/paulo-manznao/)<br>
-📚 &nbsp; Quando estou livre, gosto de ver desenhos, filmes de ficção e fantasia <br>
-##
+Sou apaixonado por aprender continuamente, colaborar com equipes e usar a tecnologia para transformar desafios em oportunidades. Meu objetivo é sempre entregar soluções que agreguem valor e façam a diferença.
+
 <br>
 <div align="center">
   <a href="https://github.com/rafaballerini">
