@@ -1,32 +1,26 @@
-### Oi gente 👋
+Sou um profissional com mais de 16 anos de experiência em gestão e liderança, e desde 2022 atuo como desenvolvedor back-end com foco em Java e Spring Boot. Trabalho na criação de APIs REST, arquitetura MVC, modelagem de dados e integração com bancos relacionais. Utilizo metodologias ágeis como Scrum e Kanban, prezando por entregas eficientes e colaborativas. No dia a dia, aplico os princípios de Clean Code para garantir legibilidade, manutenção e qualidade no código, sempre com foco em soluções escaláveis e alinhadas às necessidades do projeto.   
 
-Eu sou um desenvolvedor Java com trajetória multidisciplinar iniciada na área de Processamento de Dados e consolidada por 16 anos como Designer Gráfico. Minha experiência com editoração, design e gestão de projetos me proporcionou um olhar analítico para usabilidade, criatividade e resolução de problemas, habilidades que aplico hoje no desenvolvimento back-end e na criação de soluções escaláveis.
-Atualmente, foco na modelagem de dados, APIs RESTful e otimização de sistemas, sempre alinhando tecnologia às necessidades do negócio. Ao longo da carreira, atuei diretamente com clientes, equipes administrativas e comerciais, contribuindo para projetos estratégicos e entregando soluções de impacto.
-Sou apaixonado por aprendizado contínuo, colaboração e inovação. Busco sempre transformar desafios em oportunidades e entregar soluções que agreguem valor.
+### Hard Skills
+    • Linguagens: Java, HTML5, CSS3  
+    • Frameworks: Spring Boot, MVC, Security  
+    • Padrões de Design: SOLID  
+    • Bancos de Dados: MySQL, SQL  
+    • Infraestrutura: Docker, RabbitMQ  
+    • Cloud: Noções básicas de AWS  
+    • Metodologias Ágeis: Scrum (experiência prática como facilitador das reuniões e acompanhamento de sprints), Kanban  
+    • Outros: Modelagem de Dados, Desenvolvimento de APIs REST, Microsserviços, Clean Code  
 
-### Habilidades e Tecnologias:
-
-✔Linguagens: Java<br>
-✔Frameworks: Spring Boot, MVC, Security<br>
-✔ Bancos de Dados: MySQL, PostgreSQL<br>
-✔ Infraestrutura: Docker, RabbitMQ<br>
-✔ Metodologias Ágeis: Scrum, Kanban<br>
-✔Outros: Modelagem de Dados, Desenvolvimento de APIs REST<br>
-
-### Habilidades Comportamentais (Soft Skills)
-✔Trabalho em equipe – Colaboro de forma produtiva e eficiente.<br>
-✔Comunicação eficaz – Expressão clara e objetiva para facilitar processos. <br>
-✔Pensamento crítico – Analiso e resolvo problemas com visão estratégica. <br>
-✔Adaptabilidade – Flexibilidade para atuar em diferentes cenários e desafios.<br>
-✔Proatividade – Antecipar soluções e agir de forma independente. <br>
-✔Resiliência – Capacidade de lidar com pressão e adversidades. <br>
-✔Liderança – Coordeno equipes e projetos com foco em resultados. <br>
-✔Gestão do tempo – Priorizo tarefas e entregas de forma organizada.
-
-Ao longo da minha carreira, também atuei diretamente com clientes para compreender suas necessidades e entregar soluções de valor, contribuí para o desenvolvimento de materiais internos como revistas corporativas, e apoiei equipes administrativas e comerciais em projetos estratégicos.
-
-Sou apaixonado por aprender continuamente, colaborar com equipes e usar a tecnologia para transformar desafios em oportunidades. Meu objetivo é sempre entregar soluções que agreguem valor e façam a diferença.
-<br>
+### Soft Skills
+    • Trabalho em equipe – Colaboro de forma produtiva e eficiente.  
+    • Comunicação eficaz – Expressão clara e objetiva para facilitar processos.  
+    • Pensamento crítico – Analiso e resolvo problemas com visão estratégica.  
+    • Adaptabilidade – Flexibilidade para atuar em diferentes cenários e desafios.  
+    • Proatividade – Antecipar soluções e agir de forma independente.  
+    • Resiliência – Capacidade de lidar com pressão e adversidades.  
+    • Liderança – Coordeno equipes e projetos com foco em resultados.  
+    • Gestão do tempo – Priorizo tarefas e entregas de forma organizada.  
+    • Aprendizado rápido – Absorvo novas habilidades com agilidade e aplico de forma eficaz.   
+    
 Abaixo, deixo algumas dados sobre mim:
 
 
