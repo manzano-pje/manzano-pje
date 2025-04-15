@@ -1,87 +1,116 @@
-Sou um profissional com mais de 16 anos de experiência em gestão e liderança, e desde 2022 atuo como desenvolvedor back-end com foco em Java e Spring Boot. Trabalho na criação de APIs REST, arquitetura MVC, modelagem de dados e integração com bancos relacionais. Utilizo metodologias ágeis como Scrum e Kanban, prezando por entregas eficientes e colaborativas. No dia a dia, aplico os princípios de Clean Code para garantir legibilidade, manutenção e qualidade no código, sempre com foco em soluções escaláveis e alinhadas às necessidades do projeto.   
+<h1 align="center">Olá, sou Paulo Manzano 👋</h1>
+<h3 align="center">Desenvolvedor Back-End Java | Líder por natureza | Apaixonado por tecnologia</h3>
 
-### Hard Skills
-    • Linguagens: Java, HTML5, CSS3  
-    • Frameworks: Spring Boot, MVC, Security  
-    • Padrões de Design: SOLID  
-    • Bancos de Dados: MySQL, SQL  
-    • Infraestrutura: Docker, RabbitMQ  
-    • Cloud: Noções básicas de AWS  
-    • Metodologias Ágeis: Scrum (experiência prática como facilitador das reuniões e acompanhamento de sprints), Kanban  
-    • Outros: Modelagem de Dados, Desenvolvimento de APIs REST, Microsserviços, Clean Code  
+---
 
-### Soft Skills
-    • Trabalho em equipe – Colaboro de forma produtiva e eficiente.  
-    • Comunicação eficaz – Expressão clara e objetiva para facilitar processos.  
-    • Pensamento crítico – Analiso e resolvo problemas com visão estratégica.  
-    • Adaptabilidade – Flexibilidade para atuar em diferentes cenários e desafios.  
-    • Proatividade – Antecipar soluções e agir de forma independente.  
-    • Resiliência – Capacidade de lidar com pressão e adversidades.  
-    • Liderança – Coordeno equipes e projetos com foco em resultados.  
-    • Gestão do tempo – Priorizo tarefas e entregas de forma organizada.  
-    • Aprendizado rápido – Absorvo novas habilidades com agilidade e aplico de forma eficaz.   
-    
-Abaixo, deixo algumas dados sobre mim:
+### 👨‍💼 Sobre mim
 
+Sou um profissional com mais de **16 anos de experiência em gestão e liderança**. Desde 2022, atuei em transição de carreira e venho consolidando minha jornada como **Desenvolvedor Back-End**, com foco em **Java** e **Spring Boot**.
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzano-pje&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Tenho atuado na criação de **APIs REST**, utilizando **arquitetura MVC**, **modelagem de dados**, e integração com bancos relacionais. No dia a dia, utilizo **Scrum e Kanban**, aplico os princípios de **Clean Code** e busco sempre desenvolver soluções escaláveis, de fácil manutenção e que agreguem valor ao negócio.
 
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manzano-pje&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-<br>
-  
-### Ferramentas e Tecnologias
+### 🛠️ Hard Skills
 
- <a href="#"><img src="https://github.com/manzano-pje/imagens/blob/master/monochrome_large.png  "  align="left" height="30em"/></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  align="left" height="30em"/></a>
- <a href="#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  align="left" height="30em"/></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  align="left" height="30em" /></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"  align="left" height="30em"/></a>
- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  align="left" height="30em"/></a>      
-<br>
+- **Linguagens:** Java, HTML5, CSS3  
+- **Frameworks:** Spring Boot, MVC, Spring Security  
+- **Padrões:** SOLID, Clean Code  
+- **Banco de Dados:** MySQL, SQL  
+- **Infraestrutura:** Docker, RabbitMQ  
+- **Cloud:** Noções básicas de AWS  
+- **Metodologias Ágeis:** Scrum (facilitador de reuniões e sprints), Kanban  
 
+---
 
-### Projetos
+### 💡 Soft Skills
 
-Componentes
-* [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
-* [Formatação de texto](https://github.com/manzano-pje/Componentes/tree/master/FormatarTexto)
+- Trabalho em equipe  
+- Comunicação eficaz  
+- Pensamento crítico  
+- Adaptabilidade  
+- Proatividade  
+- Resiliência  
+- Liderança  
+- Gestão do tempo  
+- Aprendizado rápido  
 
-* [Gerenciamento de pedidos](https://github.com/manzano-pje/Restaurante)
-* [Livro de Receitas](https://github.com/manzano-pje/LivroDeReceitas)
-* [Modelando Iphone](https://github.com/manzano-pje/Modelando_Iphone)
-* [Tribos e Trilhas](https://github.com/manzano-pje/tribos-e-trilhas)
-* [Associação de Quatinga](https://github.com/manzano-pje/Associacao-Quatinga)
-* [Movimentação de Restaurante](https://github.com/manzano-pje/Restaurante)
-* [Lanchonete](https://github.com/manzano-pje/Lanchonete)
-* [Estoque](https://github.com/manzano-pje/estoque)
-* [Cadastro de clientes](https://github.com/manzano-pje/Cadastro-de-clientes)
-  
+---
 
-### Bootcamps
+### ⚙️ Ferramentas e Tecnologias
 
-* [Santander](https://github.com/manzano-pje/Santander)
-* [Carrefour](https://github.com/manzano-pje/Carrefour)   
-* [Spread](https://github.com/manzano-pje/Spread-DIO)
-* [Cognizant](https://github.com/manzano-pje/Cognizant-DIO)
-* [TQI](https://github.com/manzano-pje/TQI-DIO)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+</p>
 
-### Certificados
-* Aprender para Liderar – PUCRS – Pontfícia Universidade Católica do Rio Grande do Sul  
-* Imersão DEV – 9ª Edição - Alura  
-* Imersão Front-End – 2ª edição – Alura  
-* TQI Java Developer – Digital Innovation One  
-* Cognizant Java Developer – Digital Innovation One  
-* Spread Java Developer – Digital Innovation One  
+---
 
-### Artigos
-  
-* [Validação de CPF](https://medium.com/@manzano.pje/valida%C3%A7%C3%A3o-de-cpf-3abcc2611bc0)
-* [Classes, Métodos e Atributos em Java](https://medium.com/@manzano.pje/classes-m%C3%A9todos-e-atributos-em-java-3f8e46d989b9)<br>  
+### 🚀 Projetos em Destaque
 
+- [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)  
+- [Formatação de Texto](https://github.com/manzano-pje/Componentes/tree/master/FormatarTexto)  
+- [Gerenciamento de Pedidos](https://github.com/manzano-pje/Restaurante)  
+- [Livro de Receitas](https://github.com/manzano-pje/LivroDeReceitas)  
+- [Modelando iPhone](https://github.com/manzano-pje/Modelando_Iphone)  
+- [Lanchonete](https://github.com/manzano-pje/Lanchonete)  
+- [Estoque](https://github.com/manzano-pje/estoque)  
+- [Cadastro de Clientes](https://github.com/manzano-pje/Cadastro-de-clientes)  
+- [Associação de Quatinga](https://github.com/manzano-pje/Associacao-Quatinga)
 
-### Contatos
- <a href=mailto:manzano.pje@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://linkedin.com/in/paulo-manzano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+---
 
+### 🎓 Bootcamps
 
+- [Santander Bootcamp](https://github.com/manzano-pje/Santander)  
+- [Carrefour Bootcamp](https://github.com/manzano-pje/Carrefour)  
+- [Spread Bootcamp](https://github.com/manzano-pje/Spread-DIO)  
+- [Cognizant Bootcamp](https://github.com/manzano-pje/Cognizant-DIO)  
+- [TQI Bootcamp](https://github.com/manzano-pje/TQI-DIO)
+
+---
+
+### 📜 Certificados
+
+- **PUCRS** – Aprender para Liderar  
+- **Alura** – Imersão DEV (9ª Ed.), Imersão Front-End (2ª Ed.)  
+- **DIO** – TQI, Cognizant e Spread Java Developer  
+
+---
+
+### ✍️ Artigos Publicados
+
+- 📘 [Validação de CPF em Java](https://medium.com/@manzano.pje/valida%C3%A7%C3%A3o-de-cpf-3abcc2611bc0)  
+- 📘 [Classes, Métodos e Atributos em Java](https://medium.com/@manzano.pje/classes-m%C3%A9todos-e-atributos-em-java-3f8e46d989b9)  
+
+---
+
+### 📊 Estatísticas GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manzano-pje&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzano-pje&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📬 Contato
+
+<a href="mailto:manzano.pje@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/paulo-manzano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+---
+<p align="center">
+  Feito com ❤️ por Paulo Manzano
+</p>
