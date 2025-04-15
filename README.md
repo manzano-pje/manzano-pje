@@ -51,7 +51,12 @@ Componentes
 * [Livro de Receitas](https://github.com/manzano-pje/LivroDeReceitas)
 * [Modelando Iphone](https://github.com/manzano-pje/Modelando_Iphone)
 * [Tribos e Trilhas](https://github.com/manzano-pje/tribos-e-trilhas)
-* 
+* [Associação de Quatinga](https://github.com/manzano-pje/Associacao-Quatinga)
+* [Movimentação de Restaurante](https://github.com/manzano-pje/Restaurante)
+* [Lanchonete](https://github.com/manzano-pje/Lanchonete)
+* [Estoque](https://github.com/manzano-pje/estoque)
+* [Cadastro de clientes](https://github.com/manzano-pje/Cadastro-de-clientes)
+  
 
 ### Bootcamps
 
@@ -61,12 +66,18 @@ Componentes
 * [Cognizant](https://github.com/manzano-pje/Cognizant-DIO)
 * [TQI](https://github.com/manzano-pje/TQI-DIO)
 
+### Certificados
+* Aprender para Liderar – PUCRS – Pontfícia Universidade Católica do Rio Grande do Sul  
+* Imersão DEV – 9ª Edição - Alura  
+* Imersão Front-End – 2ª edição – Alura  
+* TQI Java Developer – Digital Innovation One  
+* Cognizant Java Developer – Digital Innovation One  
+* Spread Java Developer – Digital Innovation One  
 
 ### Artigos
   
 * [Validação de CPF](https://medium.com/@manzano.pje/valida%C3%A7%C3%A3o-de-cpf-3abcc2611bc0)
 * [Classes, Métodos e Atributos em Java](https://medium.com/@manzano.pje/classes-m%C3%A9todos-e-atributos-em-java-3f8e46d989b9)<br>  
-
 
 
 ### Contatos
