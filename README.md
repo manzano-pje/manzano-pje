@@ -43,8 +43,15 @@ Abaixo, deixo algumas dados sobre mim:
 
 ### Projetos
 
-* [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF) 
+Componentes
+* [Validação de CPF](https://github.com/manzano-pje/Verificacao_de_CPF)
+* [Formatação de texto](https://github.com/manzano-pje/Componentes/tree/master/FormatarTexto)
+
 * [Gerenciamento de pedidos](https://github.com/manzano-pje/Restaurante)
+* [Livro de Receitas](https://github.com/manzano-pje/LivroDeReceitas)
+* [Modelando Iphone](https://github.com/manzano-pje/Modelando_Iphone)
+* [Tribos e Trilhas](https://github.com/manzano-pje/tribos-e-trilhas)
+* 
 
 ### Bootcamps
 
